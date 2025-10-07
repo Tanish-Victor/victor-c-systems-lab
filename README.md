@@ -6,6 +6,6 @@ C Programming projects aimed at mastering fundamental concepts in mathematics, p
 ## 🔹 Projects
 
 ### Project 1: 🧮 Linear Approximation
-- Folder: [Linear_Approximation](./Linear_Approximation)
+- Folder: [Linear_Approximation](./Linear_approximator)
 - Description: Approximates a function near a point using first-order Taylor expansion.  
 - Purpose: Builds a foundation in translating math concepts into C code.
