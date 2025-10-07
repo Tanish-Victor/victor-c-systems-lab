@@ -1,2 +1,4 @@
 # victor-c-systems-lab
 C Programming projects aimed at mastering fundamental concepts in mathematics, physics and computational thinking. These projects serve as stepping stones towards building expertise in AI and Nuclear-Fusion applications.
+<br>
+Project 1: First order taylor series approximation 
