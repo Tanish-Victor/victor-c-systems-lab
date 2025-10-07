@@ -1,0 +1,13 @@
+# Ignore compiled C files
+*.exe
+*.o
+*.out
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
